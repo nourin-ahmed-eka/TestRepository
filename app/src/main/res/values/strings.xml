@@ -4,6 +4,7 @@
     <string name="app_name">TestApplication</string>
     <string name="hello_world">Hello world!</string>
     <string name="hello_android">Hello Android!</string>
+    <string name="hello_byte_code">Hello byte code!</string>
     <string name="action_settings">Settings</string>
 
 </resources>
